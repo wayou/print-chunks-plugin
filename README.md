@@ -13,3 +13,17 @@ I find this so useful for debugging. But there's no package in the npm.
 ```
 npm i -D print-chunks-plugin
 ```
+
+### usage
+
+```js
+var PrintChunksPlugin = require('print-chunks-plugin');
+var webpackConfig = {
+  entry: 'index.js',
+  output: {
+    path: __dirname + '/dist',
+    filename: 'index_bundle.js'
+  },
+  plugins: [new PrintChunksPlugin()]
+};
+```

@@ -1,5 +1,8 @@
 /**
- * taken from the webpack documentation
+ * outputs exactly what went into each chunk
+ * 
+ * code is taken from the webpack documentation
+ * https://github.com/webpack/docs/wiki/plugins#after-optimize-chunk-assetschunks-chunk
  */
 
 var PrintChunksPlugin = function() {};
