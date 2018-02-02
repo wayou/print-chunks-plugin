@@ -6,3 +6,10 @@ the code is taken from the [webpack documentation](https://github.com/webpack/do
 
 
 I find this so useful for debugging. But there's no package in the npm.
+
+
+### install
+
+```
+npm i -D print-chunks-plugin
+```

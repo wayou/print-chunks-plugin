@@ -1,0 +1,24 @@
+{
+  "name": "print-chunks-plugin",
+  "version": "0.1.0",
+  "description": "outputs exactly what went into each chunk",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^3.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayou/print-chunks-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wayou/print-chunks-plugin/issues"
+  },
+  "homepage": "https://github.com/wayou/print-chunks-plugin#readme"
+}
