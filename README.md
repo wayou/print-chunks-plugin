@@ -1,8 +1,11 @@
 # print-chunks-plugin
 
-outputs exactly what went into each chunk
+[![npm package](https://img.shields.io/npm/v/print-chunks-plugin.svg)](https://www.npmjs.com/package/print-chunks-plugin)
+[![npm package](https://img.shields.io/npm/dm/print-chunks-plugin.svg)](https://www.npmjs.com/package/print-chunks-plugin)
 
-the code is taken from the [webpack documentation](https://github.com/webpack/docs/wiki/plugins#after-optimize-chunk-assetschunks-chunk)
+Outputs exactly what went into each chunk
+
+The code is taken from the [webpack documentation](https://github.com/webpack/docs/wiki/plugins#after-optimize-chunk-assetschunks-chunk)
 
 
 I find this so useful for debugging. But there's no package in the npm.
